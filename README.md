@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>This is Md. Abul Hasan Shanto!</h1>
+<h1>This is Md. Abul Hasan!</h1>
 I'm a tech enthusiast. I love to learn about new technologies. I have experience in working on Blockchain, Internet of Things like technology.
 <br />
 <br />
@@ -32,7 +32,7 @@ Profile visits:
  <br>
  </p>
 
-Here are some ideas to get you started:
+Here are some details about me:
 
 - 🔭 I’m currently working on a Blockchain project and a Django Project
 - 🌱 I’m currently learning Django and Javascript
