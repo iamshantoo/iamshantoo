@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**iamshantoo/iamshantoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 <h1>Hi, I'm Shanto!</h1>
 I'm a tech enthusiast. I love to learn about new technologies. I have experience in working on Blockchain, Internet of Things like technology.
 <br />
@@ -46,7 +42,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shantouap40@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a developer but I love to play Guitar😄
--->
 
 <h2> My Top Skills </h2>
 
