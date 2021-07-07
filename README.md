@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1>This is Md. Abul Hasan!</h1>
-I'm a tech enthusiast. I love to learn about new technologies. I have experience in working on Blockchain, Internet of Things like technology.
+Hello! This is Md. Abul Hasan. I am an enthusiast of Blockchain, Internet of Things and Web Development. I love to learn about new tools and technologies. I am strongly interested in Blockchain, Internet of Things (IoT) and Software Development. I am passionate about what attracts me and try to do my best in that particular field to secure a responsible career opportunity to fully utilize my training and skills.
 <br />
 <br />
 Profile visits:
