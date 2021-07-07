@@ -34,19 +34,14 @@ Profile visits:
 
 Here are some details about me:
 
-- 🔭 I’m currently working on a Blockchain project and a Django Project
-- 🌱 I’m currently learning Django and Javascript
-- 👯 I’m looking to collaborate on Python, Django, Blockchain projects
-- 🤔 I’m looking for help with any tech
-- 💬 Ask me any tech related stuff
+- 🔭 I’m currently working with Python and Django Framework
+- 🌱 I’m currently learning Django REST API and Javascript
+- 👯 I’m looking for collaboration with someone interested in Python, Django, Blockchain projects.
 - 📫 How to reach me: shantouap40@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am a developer but I love to play Guitar😄
+- ⚡ Fun fact: I am a developer and I love to play Guitar😄
 
 <h2> My Top Skills </h2>
-
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-<h2> Languages and Tools </h2>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
