@@ -34,9 +34,9 @@ Profile visits:
 
 Here are some details about me:
 
-- 🔭 I’m currently working with Python and Django Framework
-- 🌱 I’m currently learning Django REST API and Javascript
-- 👯 I’m looking for collaboration with someone interested in Python, Django, Blockchain projects.
+- 🔭 I’m currently working with Unity Game Development and Testing
+- 🌱 I’m currently learning Unity and Game Development
+- 👯 I’m looking for collaboration with someone interested in Unity, C#, Python, Django, Blockchain projects.
 - 📫 How to reach me: shantouap40@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a developer and I love to play Guitar😄
