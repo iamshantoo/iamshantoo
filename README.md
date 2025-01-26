@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1>This is Md. Abul Hasan!</h1>
-A "Passionate Game Designer & Developer 🎮 | Creating Immersive Gaming Experiences | Mastering the Art of Storytelling through Games | Level Design | Unity Enthusiast | Bringing Dreams to Life, One Pixel at a Time!"
+A "Passionate Game Designer & Developer 🎮 | Creating Immersive Gaming Experiences | Mastering the Art of Storytelling through Games | Technical Art | AR/VR Experiences | Bringing Dreams to Life, One Pixel at a Time!"
 <br />
 <br />
 Profile visits:
@@ -25,13 +25,13 @@ Profile visits:
 
 Here are some details about me:
 
-- 🔭 I’m passionate about Game Design and Development
-- 🌱 Currently pursuing a career in Game Development with Unity for 2+ years.
+- 🔭 I’m passionate about Games, Simulations, and Interactive Experiences Design and Development
+- 🌱 Currently pursuing a career in Game Development with Unity for 3+ years.
 - 📫 How to reach me: shantouap40@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a developer also I love to travel with bikes😄
 
 <h2> Documents </h2>
-:paperclip: <a href='https://drive.google.com/file/d/1hNyB5DyUqTqrzwzeCKdGg10TJfeDI6eG/view?usp=sharing'>My Resume/CV</a>
+:paperclip: <a href='https://drive.google.com/file/d/1NINeKsB5ktG9ur_DgJT5qqesLPk5At4e/view?usp=sharing'>My Resume/CV</a>
 <br />
 :email: shantouap40@gmail.com
