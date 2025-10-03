@@ -26,12 +26,12 @@ Profile visits:
 Here are some details about me:
 
 - 🔭 I’m passionate about Games, Simulations, and Interactive Experiences Design and Development
-- 🌱 Currently pursuing a career in Game Development with Unity for 3+ years.
+- 🌱 Currently pursuing a career in Game Development with Unity for 4+ years.
 - 📫 How to reach me: shantouap40@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a developer also I love to travel with bikes😄
 
 <h2> Documents </h2>
-:paperclip: <a href='https://drive.google.com/file/d/1NINeKsB5ktG9ur_DgJT5qqesLPk5At4e/view?usp=sharing'>My Resume/CV</a>
+:paperclip: <a href='https://drive.google.com/file/d/1s7cG6evkjvhmL-WtoiAIbefOgmBSCpCu/view?usp=sharing'>My Resume/CV</a>
 <br />
 :email: shantouap40@gmail.com
