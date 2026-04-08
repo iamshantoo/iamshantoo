@@ -62,15 +62,8 @@
 
 ---
 
-<h3 align="center">⚙️ GitHub Stats</h3>
+### ⚙️ GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/iamshantoo">
-    <img src="https://github-readme-stats.vercel.app/api?username=iamshantoo&show_icons=true&theme=transparent&hide_border=true&title_color=239120&icon_color=239120" alt="Shanto's GitHub Stats" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/iamshantoo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshantoo&layout=compact&theme=transparent&hide_border=true&title_color=239120" alt="Top Languages" />
-  </a>
-</p>
+[![Shanto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamshantoo&show_icons=true&theme=transparent&hide_border=true&title_color=239120&icon_color=239120)](https://github.com/iamshantoo)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshantoo&layout=compact&theme=transparent&hide_border=true&title_color=239120)](https://github.com/iamshantoo)
