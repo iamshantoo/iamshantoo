@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/iam-shanto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://iamshantoo.github.io"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://iamshantoo.github.io/resume"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Resume"/></a>
+  <a href="https://iamshantoo.github.io/resume"><img src="https://img.shields.io/badge/Resume-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Resume"/></a>
   <a href="mailto:shantouap40@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -65,6 +65,12 @@
 <h3 align="center">⚙️ GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamshantoo&show_icons=true&theme=transparent&hide_border=true&title_color=239120&icon_color=239120" alt="Shanto's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshantoo&layout=compact&theme=transparent&hide_border=true&title_color=239120" alt="Top Languages" />
+  <a href="https://github.com/iamshantoo">
+    <img src="https://github-readme-stats.vercel.app/api?username=iamshantoo&show_icons=true&theme=transparent&hide_border=true&title_color=239120&icon_color=239120" alt="Shanto's GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/iamshantoo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshantoo&layout=compact&theme=transparent&hide_border=true&title_color=239120" alt="Top Languages" />
+  </a>
 </p>
