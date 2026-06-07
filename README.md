@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Md. Abul Hasan (Shanto) 👋</h1>
-<h3 align="center">Unity Developer | AR/VR/XR Specialist | Gameplay & UI Programmer</h3>
+<h3 align="center">Unity Developer | Games, Simulations, Interactive Apps, AR/VR/MR Experiences | Gameplay & UI Programmer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/iam-shanto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 * 🎮 **Unity Developer** with 4+ years of experience building cross-platform games, simulations, and real-time 3D experiences.
-* 🚀 Currently working as an **Experience Engineer (Unity)** at Singularity Limited, creating interactive AR/VR/XR titles and web games like *Dettol Warriors*.
+* 🚀 Currently working as an **Experience Engineer (Unity)** at Singularity Limited, creating games, simulation, interactive applications and AR/VR/MR titles.
 * 🛠️ Deeply focused on **Unity 6**, gameplay mechanics, UI programming, and performance optimization.
 * 🥽 Passionate about spatial computing, actively developing VR walkthroughs and survival experiences for **Meta Quest 2**, and integrating AR foundations (Vuforia, ARCore).
 * 📱 Experienced in Android mobile development (using Kotlin), including developing and publishing the WebView App for **bdgameghor.net** on the Google Play Store. 
