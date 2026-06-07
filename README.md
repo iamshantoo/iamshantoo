@@ -1,14 +1,17 @@
-<h1 align="center">Md. Abul Hasan (Shanto)</h1>
-<h3 align="center">Unity Developer</h3>
+# MD. ABUL HASAN
+### Unity Developer
 
-<p align="center">
-  <a href="mailto:shantouap40@gmail.com"><img src="https://img.shields.io/badge/Email-shantouap40@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="tel:+8801777148127"><img src="https://img.shields.io/badge/Phone-+8801777148127-252525?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
-  <a href="https://linkedin.com/in/iam-shanto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://abulhasan-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<p>
+  <a href="mailto:shantouap40@gmail.com" style="text-decoration:none;">📧 shantouap40@gmail.com</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="tel:+8801777148127" style="text-decoration:none;">📞 +8801777148127</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>📍 Dhaka, Bangladesh</span>
 </p>
 
-<p align="center">📍 Dhaka, Bangladesh</p>
+<p>
+  <a href="https://linkedin.com/in/iam-shanto" style="text-decoration:none;">💼 LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/iamshantoo" style="text-decoration:none;">🐙 GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://iamshanto.itch.io" style="text-decoration:none;">🎮 Itch</a>
+</p>
 
 ---
 
