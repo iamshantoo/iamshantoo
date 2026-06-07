@@ -1,76 +1,89 @@
-<h1 align="center">Hi there, I'm Md. Abul Hasan (Shanto) 👋</h1>
-<h3 align="center">Unity Developer | Games, Simulations, Interactive Apps, AR/VR/MR Experiences</h3>
+<h1 align="center">Md. Abul Hasan (Shanto)</h1>
+<h3 align="center">Unity Developer</h3>
 
 <p align="center">
+  <a href="mailto:shantouap40@gmail.com"><img src="https://img.shields.io/badge/Email-shantouap40@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="tel:+8801777148127"><img src="https://img.shields.io/badge/Phone-+8801777148127-252525?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
   <a href="https://linkedin.com/in/iam-shanto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://abulhasan-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:shantouap40@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://iamshantoo.github.io"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
+
+<p align="center">📍 Dhaka, Bangladesh</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👤 Profile
 
-* 🎮 **Unity Developer** with 4+ years of experience building cross-platform games, simulations, and real-time 3D XR applications.
-* 🚀 Currently working as an **Experience Engineer (Unity)** at Singularity Limited, where I design and develop gameplay and UI systems for interactive applications and AR/VR/MR titles.
-* 🛠️ Deeply focused on **C# gameplay programming**, UI architecture, performance profiling, optimization, and hardware integration.
-* 🥽 Passionate about spatial computing, actively developing VR experiences and integrating AR foundations (Vuforia, ARCore, Meta/Oculus SDKs).
-* 📱 Experienced in building production-ready applications for mobile, desktop, VR headsets, and browser/WebGL platforms within collaborative, multi-disciplinary teams.
+Unity Developer with 4+ years of experience building cross-platform games, simulations, and AR/VR/XR applications. Skilled in C# gameplay programming, UI programming, performance profiling and optimization, hardware integration, and real-time 3D interaction. Hands-on experience with Unity AR Foundation, ARCore, Vuforia, XR Interaction Toolkit, Meta/Oculus SDKs, Git, and device-based workflows. Experienced in building production-ready applications for mobile, desktop, VR headsets, and browser/WebGL platforms in collaborative multi-disciplinary teams.
 
 ---
 
 ## 💼 Professional Experience
 
-**Singularity Limited** — *Experience Engineer (Unity)* <br>
-*(Jan 2025 – Present) | Dhaka, Bangladesh*
-* Designing and developing gameplay and UI systems for cross-platform titles, including AR/VR/XR, using C# and the Unity Engine.
+### Experience Engineer (Unity)
+**Singularity Limited** | *Dhaka, Bangladesh* | *01/2025 - Present*
+* Design and develop gameplay and UI systems for cross-platform titles including AR/VR/XR using C# and Unity Engine.
 * Collaborating with cross-functional teams to design, prototype, and deploy real-time 3D experiences.
 
-**Battery Low Interactive Limited** — *Unity Developer & QA Engineer* <br>
-*(Sep 2021 – Jan 2025) | Dhaka, Bangladesh*
-* Developed robust gameplay and UI systems for various cross-platform titles.
-* Spearheaded quality assurance testing and debugging to ensure smooth user experiences and optimal performance across multiple platforms.
+### Unity Developer, QA Engineer
+**Battery Low Interactive Limited** | *Dhaka, Bangladesh* | *09/2021 - 01/2025*
+* Design and develop gameplay and UI systems for cross-platform titles including AR/VR/XR using C# and Unity Engine.
+* Performed quality assurance testing and debugging for smooth user experience across platforms.
+* Transitioned to Unity Developer role in 2023, focusing on gameplay programming and performance optimization.
 
-**DataSoft Systems Bangladesh Limited** — *Internet of Things Intern* <br>
-*(Sep 2019 – Feb 2020) | Dhaka, Bangladesh*
-* Developed an IoT-enabled environmental monitoring device paired with a functional data dashboard.
-
----
-
-## 🎓 Education
-
-* **BSc in Computer Science and Engineering** — *University of Asia Pacific* (2016 – 2021)
-* **Higher Secondary Certificate (Science)** — *Ghatail Cantonment College* 
-* **Secondary School Certificate (Science)** — *Kadamtali Hasan Public High School* 
+### Internet of Things Intern
+**DataSoft Systems Bangladesh Limited** | *Dhaka, Bangladesh* | *09/2019 - 02/2020*
+* Developed IoT enabled environmental monitoring device with dashboard.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Game Development & Programming
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### AR / VR / MR SDKs
-`AR Foundation` `ARCore` `Vuforia SDK` `Meta/Oculus SDK` `XR Interaction Toolkit` `WebAR` `Lens Studio`
-
-### Core Competencies
-`Gameplay Programming` `UI Programming` `Performance Optimization` `Lighting & Rendering` `Hardware Integration` `Game Publishing`
-
-### Tools & Workflow
-`Git` `Visual Studio` `JIRA` `Trello` `Slack` `Discord` `Play Console` `Arduino`
+| Category | Details |
+| :--- | :--- |
+| **Core Skills** | Gameplay Programming, UI Programming, AR/VR Programming, Hardware Programming, Lighting & Rendering, Performance Optimization, Game Publishing |
+| **Languages** | C# (Unity Programming), C++ (Arduino Programming), Python (Unity Backend Bridge) |
+| **Platforms** | Android, Windows, VR (Meta Quest), WebGL, Mobile, Desktop |
+| **Tools & Software** | Unity, Visual Studio, Git, Lens Studio, JIRA, Trello, Slack, Discord |
+| **SDKs** | AR Foundation, AR Core, Vuforia SDK, Meta/Oculus SDK, XR Interaction Toolkit, WebAR |
+| **Spoken Languages**| English (Fluent), Bengali (Native/Bilingual) |
 
 ---
 
-## 🏆 Awards & Certifications
+## 🚀 Projects
 
-* 🥇 **Document Authentication Category Award** - *International Blockchain Olympiad (2021)*
-* 🏆 **Champion** - *UAP CSE Hackathon (2020)*
-* 📜 **Certifications:** Lighting in Unity (Udemy), Blockchain Specialization (Coursera), Intro to Data Science in Python (Coursera)
+*   [**Dettol Warriors - Web Action Game**](https://dettolwarriors.wskoly.xyz/) *(12/2025 - Present)* — Gameplay & UI programming, Lighting & Rendering.
+*   [**Combined Harvester Operator Training Simulator**](https://www.youtube.com/watch?v=MpPcCIJkK2g) *(08/2023 - 11/2024)* — Gameplay & UI programming, Hardware & API Integration.
+*   [**Guess The Flag - Android Casual Educational Game**](https://play.google.com/store/apps/details?id=com.QuantumGamesStudio.GuessTheFlag) *(08/2024 - 10/2025)* — Gameplay & UI programming, Game Design & Play console publishing.
+*   [**VR Microverse - Survival Shooter Game**](https://www.youtube.com/watch?v=Okuv-qdVxfg) *(10/2025 - 12/2025)* — Gameplay Programming, Lighting & Rendering, Oculus Integration.
+*   [**HMO Lab - Child Body Scanning AR App**](https://www.linkedin.com/posts/iam-shanto_augmentedreality-iot-innovation-activity-7398746298453110785-Wez6/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC2W73MBYWTtwPN3kFEW9883hPh6eaa4cz8) *(10/2025 - 12/2025)* — AR Programming, Vuforia SDK Integration.
+*   [**VISA Bangladesh ARPhotobooth**](https://www.linkedin.com/posts/iam-shanto_unity-pythonbackend-arphotobooth-activity-7358418545669525504-t17b/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2W73MBYWTtwPN3kFEW9883hPh6eaa4cz8) *(07/2025 - 08/2025)* — AR programming with QR Code generation, Server Communication.
+*   [**Penalty Shootout - Web Sports Game**](https://penalty-shoot.netlify.app/) *(07/2025 - 08/2025)* — Gameplay & UI programming, Level design.
+*   [**TMV Car Chase - Casual Web Finite Runner Game**](https://tmv-carchase.wskoly.xyz/) *(02/2025 - 03/2025)* — Gameplay & UI programming, Addressables & Leaderboard API Integration.
+*   [**ARVenture - AR Scavanger Hunt Game**](https://therap-arventure.wskoly.xyz/) *(01/2025 - 02/2025)* — Web AR & UI programming, API integration.
+*   [**Chashi Nobanno - Web Traditional Sports Game**](https://sleepypenguinstudios.com/chashi-nobanno/) *(11/2024 - 12/2024)* — Gameplay & UI programming, Level design.
+*   [**Treasure Island - Windows Role-playing Game**](https://iamshanto.itch.io/treasure-island) *(09/2021 - 12/2022)* — Gameplay & UI programming, Level Design.
+
+---
+
+## 🎓 Education
+
+*   **BSc in Computer Science and Engineering** — *University of Asia Pacific* (10/2016 - 07/2021)
+*   **Higher Secondary Certificate (Science)** — *Ghatail Cantonment College* (01/2012 - 12/2014)
+*   **Secondary School Certificate (Science)** — *Kadamtali Hasan Public High School* (01/2010 - 05/2012)
+
+---
+
+## 🏆 Awards & Certificates
+
+### Awards
+*   **Document Authentication Category Award** - International Blockchain Olympiad (2021)
+*   **UAP CSE Hackathon Champion Award** - University of Asia Pacific (2020)
+
+### Certificates
+*   **Lighting in Unity** - Udemy (2020) *(Online course covering techniques and tools for effective lighting in Unity)*
+*   **Blockchain Specialization** - Coursera (2020) *(Specialization involved in blockchain technology including its applications and implications)*
+*   **Intro to Data Science in Python** - Coursera (2020) *(Course on data science including programming in Python)*
 
 ---
 
