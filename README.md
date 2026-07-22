@@ -15,13 +15,19 @@
 
 </div>
 
+Unity Developer with **4+ years of experience** building high-performance games, simulations, and immersive real-time 3D applications. I specialize in **Spatial Computing, VR, AR, MR, and cross-platform development**, creating interactive experiences that run seamlessly across multiple devices.
+
+Currently, I'm working at **Singularity Limited**, where I develop games, simulation, XR applications and collaborate with multidisciplinary teams to design, prototype, and deploy production-ready interactive experiences.
+
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Unity Developer with 4+ years of experience building high-performance games, simulations, and immersive real-time 3D applications. I enjoy solving complex technical challenges and creating interactive experiences that run smoothly across multiple platforms.
-
-Currently, I work at Singularity Limited, where I develop games, simulation, XR applications and spatial computing experiences, collaborating with designers, artists, and engineers to deliver production-ready solutions.
+- 🎮 Building games, simulations, and interactive 3D applications with Unity
+- 🥽 Developing immersive **AR, VR, MR, and Spatial Computing** experiences
+- 🌍 Deploying applications for **Windows, Android, iOS, WebGL, and Meta Quest**
+- ⚡ Passionate about clean architecture, performance optimization, and scalable systems
+- 🔌 Experienced with hardware integration, computer vision, and real-time interaction
 
 ---
 
@@ -44,6 +50,38 @@ Currently, I work at Singularity Limited, where I develop games, simulation, XR 
 
 ### **Core Competencies**
 `Gameplay Programming` `UI Architecture` `Performance Optimization` `Hardware Integration` `Lighting & Rendering` 
+
+## 🛠️ Tech Stack
+
+### 🎯 Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+
+### 🥽 XR Development
+![Meta Quest](https://img.shields.io/badge/Meta%20Quest-0467DF?style=for-the-badge)
+![OpenXR](https://img.shields.io/badge/OpenXR-8715FF?style=for-the-badge)
+![AR Foundation](https://img.shields.io/badge/AR%20Foundation-000000?style=for-the-badge)
+![Vuforia](https://img.shields.io/badge/Vuforia-5C2D91?style=for-the-badge)
+
+### 🎨 Unity Tools
+![DOTween](https://img.shields.io/badge/DOTween-2C3E50?style=for-the-badge)
+![TextMesh Pro](https://img.shields.io/badge/TextMesh%20Pro-017ACC?style=for-the-badge)
+![Addressables](https://img.shields.io/badge/Addressables-000000?style=for-the-badge)
+
+### 💻 Platforms
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![JetBrains Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
