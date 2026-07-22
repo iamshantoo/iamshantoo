@@ -55,6 +55,16 @@ Currently, I work at Singularity Limited, where I develop games, simulation, XR 
 
 ---
 
+## 🌱 Currently Exploring
+
+- 🥽 Mixed Reality & Spatial Computing
+- 🤖 AI-powered interactive experiences
+- ☁️ Multiplayer architecture
+- ⚡ Advanced rendering and optimization techniques
+- 🧩 Modular game architecture and tooling
+
+---
+
 ## 🌱 Interests
 
 I'm passionate about immersive technologies and enjoy building solutions that combine gaming, education, simulation, AI, and real-world interaction. I continuously explore new Unity features, XR technologies, and workflows that improve performance, usability, and developer productivity.
@@ -67,3 +77,13 @@ I'm passionate about immersive technologies and enjoy building solutions that co
   <img height="180" src="https://github-readme-stats-omega-one-60.vercel.app/api?username=iamshantoo&show_icons=true&theme=transparent&hide_border=true&title_color=239120&icon_color=239120&count_private=true" alt="Stats" />
   <img height="180" src="https://github-readme-stats-omega-one-60.vercel.app/api/top-langs/?username=iamshantoo&layout=compact&theme=transparent&hide_border=true&title_color=239120" alt="Top Languages" />
 </div>
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/iam-shanto/
+- 🌐 Portfolio: https://abulhasan.dev/
+- 📧 Email: shanto.developer@gmail.com
+
+---
