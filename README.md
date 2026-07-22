@@ -31,26 +31,6 @@ Currently, I'm working at **Singularity Limited**, where I develop games, simula
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
-
-### **Languages**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### **Engines & Platforms**
-![Unity](https://img.shields.io/badge/Unity_6-100000?style=flat-square&logo=unity&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-### **AR / VR / MR SDKs**
-`AR Foundation` `ARCore` `Vuforia` `Meta/Oculus SDK` `XR Interaction Toolkit` `WebAR` `Lens Studio`
-
-### **Core Competencies**
-`Gameplay Programming` `UI Architecture` `Performance Optimization` `Hardware Integration` `Lighting & Rendering` 
-
 ## 🛠️ Tech Stack
 
 ### 🎯 Game Development
@@ -85,14 +65,6 @@ Currently, I'm working at **Singularity Limited**, where I develop games, simula
 
 ---
 
-## 🎓 Education & Certifications
-
-* **BSc in Computer Science and Engineering** — *University of Asia Pacific (2021)*
-* **Awards:** Champion at UAP CSE Hackathon (2020) & Document Authentication Category Award at International Blockchain Olympiad (2021).
-* **Certifications:** Lighting in Unity (Udemy), Blockchain Specialization (Coursera), Intro to Data Science in Python (Coursera).
-
----
-
 ## 🌱 Currently Exploring
 
 - 🥽 Mixed Reality & Spatial Computing
@@ -100,12 +72,6 @@ Currently, I'm working at **Singularity Limited**, where I develop games, simula
 - ☁️ Multiplayer architecture
 - ⚡ Advanced rendering and optimization techniques
 - 🧩 Modular game architecture and tooling
-
----
-
-## 🌱 Interests
-
-I'm passionate about immersive technologies and enjoy building solutions that combine gaming, education, simulation, AI, and real-world interaction. I continuously explore new Unity features, XR technologies, and workflows that improve performance, usability, and developer productivity.
 
 ---
 
