@@ -19,7 +19,9 @@
 
 ## 👨‍💻 About Me
 
-A passionate **Unity Developer** with over 4 years of experience crafting cross-platform games, simulations, and real-time 3D XR applications. I specialize in spatial computing, building immersive experiences for Meta Quest headsets, and integrating AR foundations. Currently, I am driving interactive application development at **Singularity Limited**, where I collaborate with cross-functional teams to design, prototype, and deploy cutting-edge 3D experiences.
+I'm a Unity Developer with 4+ years of experience building high-performance games, simulations, and immersive real-time 3D applications. I enjoy solving complex technical challenges and creating interactive experiences that run smoothly across multiple platforms.
+
+Currently, I work at Singularity Limited, where I develop games, simulation, XR applications and spatial computing experiences, collaborating with designers, artists, and engineers to deliver production-ready solutions.
 
 ---
 
@@ -45,27 +47,17 @@ A passionate **Unity Developer** with over 4 years of experience crafting cross-
 
 ---
 
-## 💼 Professional Journey
+## 🎓 Education & Certifications
 
-> **Experience Engineer (Unity)** @ *Singularity Limited* <br>
-> *(Jan 2025 – Present)*
-> * Architecting and developing gameplay and UI systems for AR/VR/XR and interactive titles using C# and Unity.
-
-> **Unity Developer & QA Engineer** @ *Battery Low Interactive Limited* <br>
-> *(Sep 2021 – Jan 2025)*
-> * Spearheaded gameplay programming, cross-platform performance optimization, and rigorous quality assurance testing for seamless user experiences.
-
-> **IoT Intern** @ *DataSoft Systems Bangladesh Limited* <br>
-> *(Sep 2019 – Feb 2020)*
-> * Developed an IoT-enabled environmental monitoring device paired with a live data dashboard.
+* **BSc in Computer Science and Engineering** — *University of Asia Pacific (2021)*
+* **Awards:** Champion at UAP CSE Hackathon (2020) & Document Authentication Category Award at International Blockchain Olympiad (2021).
+* **Certifications:** Lighting in Unity (Udemy), Blockchain Specialization (Coursera), Intro to Data Science in Python (Coursera).
 
 ---
 
-## 🎓 Education & Certifications
+## 🌱 Interests
 
-* **BSc in Computer Science and Engineering** — *University of Asia Pacific*
-* **Awards:** Champion at UAP CSE Hackathon (2020) & Document Authentication Category Award at International Blockchain Olympiad (2021).
-* **Certifications:** Lighting in Unity (Udemy), Blockchain Specialization (Coursera), Intro to Data Science in Python (Coursera).
+I'm passionate about immersive technologies and enjoy building solutions that combine gaming, education, simulation, AI, and real-world interaction. I continuously explore new Unity features, XR technologies, and workflows that improve performance, usability, and developer productivity.
 
 ---
 
