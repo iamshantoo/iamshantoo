@@ -9,8 +9,7 @@
 <p align="center">
   <a href="https://abulhasan.dev/"><img src="https://img.shields.io/badge/🌐_Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/iam-shanto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shantouap40@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://iamshanto.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/></a>
+  <a href="mailto:shanto.developer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
@@ -81,13 +80,5 @@ Currently, I'm working at **Singularity Limited**, where I develop games, simula
   <img height="180" src="https://github-readme-stats-omega-one-60.vercel.app/api?username=iamshantoo&show_icons=true&theme=transparent&hide_border=true&title_color=239120&icon_color=239120&count_private=true" alt="Stats" />
   <img height="180" src="https://github-readme-stats-omega-one-60.vercel.app/api/top-langs/?username=iamshantoo&layout=compact&theme=transparent&hide_border=true&title_color=239120" alt="Top Languages" />
 </div>
-
----
-
-## 📫 Connect with Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/iam-shanto/
-- 🌐 Portfolio: https://abulhasan.dev/
-- 📧 Email: shanto.developer@gmail.com
 
 ---
