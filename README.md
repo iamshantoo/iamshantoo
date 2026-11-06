@@ -14,7 +14,7 @@
 
 </div>
 
-Unity Developer with **4+ years of experience** building high-performance games, simulations, and immersive real-time 3D applications. I specialize in **Spatial Computing, VR, AR, MR, and cross-platform development**, creating interactive experiences that run seamlessly across multiple devices.
+Unity Developer with **5+ years of experience** building high-performance games, simulations, and immersive real-time 3D applications. I specialize in **Spatial Computing, VR, AR, MR, and cross-platform development**, creating interactive experiences that run seamlessly across multiple devices.
 
 Currently, I'm working at **Singularity Limited**, where I develop games, simulation, XR applications and collaborate with multidisciplinary teams to design, prototype, and deploy production-ready interactive experiences.
 
